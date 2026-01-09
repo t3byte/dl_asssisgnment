@@ -24,11 +24,13 @@ UCF50 - 5 selected actions:
 action_recognition/
 ├── DL_Assignment_4.ipynb    # Training notebook
 ├── backend/
-│   ├── action_model.h5      # Trained model (not in git)
-│   ├── label_encoder.pkl    # Label encoder (not in git)
+│   ├── action_model.h5      # Trained model 
+│   ├── label_encoder.pkl    # Label encoder 
 │   └── app.py               # Backend API
 ├── frontend/
 │   └── app.py               # Gradio web interface
+├── Output1.png
+├── Output2.png
 └── README.md
 ```
 
