@@ -51,7 +51,7 @@ cd frontend
 python app.py
 ```
 
-4. Open browser at: `http://127.0.0.1:7860`
+4. Open browser at: `http://localhost:7860`
 
 ## Usage
 
@@ -67,4 +67,5 @@ See `DL_Assignment_4.ipynb` for the complete training process.
 
 Muhammad Usman Tahir  
 Roll No: 221463  
+Air University
 Course: Deep Learning
